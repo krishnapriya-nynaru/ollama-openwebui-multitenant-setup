@@ -7,7 +7,7 @@ This guide walks you through installing [Ollama](https://ollama.com) on your Ubu
 
 ## 📋 Prerequisites
 
-- Ubuntu 22.04 (64-bit)
+- Ubuntu 22.04
 - `curl` installed (`sudo apt install curl`)
 - At least 8–16 GB RAM (depending on model)
 - Optional: NVIDIA GPU with CUDA for faster inference
@@ -31,5 +31,8 @@ ollama serve
 ```
 If successful, Ollama will start a background server to handle model loading and chat requests.
 
+### 3. Verify Installation
 
-
+```bash
+ollama --version
+```
