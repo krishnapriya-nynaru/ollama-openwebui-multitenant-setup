@@ -18,6 +18,7 @@ A complete guide to self-hosting LLMs with [Ollama](https://ollama.com) and [Ope
 
 | Section | Description |
 |---------|-------------|
+| [00 - Install Docker](docs/00_install_docker.md) | Setup Docker & Docker Compose |
 | [01 - Install OpenWebUI](docs/01_install_openwebui.md) | Docker-based setup |
 | [02 - Install Ollama](docs/02_install_ollama.md) | LLM backend installation |
 | [03 - Pull LLM Models](docs/03_pull_models.md) | Example: llama3, phi3, codellama |
