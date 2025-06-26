@@ -37,5 +37,6 @@ http://localhost:3000
 ```
 **Note** : GPU Support (Optional)
 If you want to run OpenWebUI with GPU acceleration for model inference (when GPU-enabled Ollama or other backends are in use), follow the official setup instructions:
+
 [ **GPU Setup Guide – open-webui GitHub**](https://github.com/open-webui/open-webui)
 This requires installing nvidia-docker2 and enabling the --gpus flag in Docker.
