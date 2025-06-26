@@ -58,4 +58,5 @@ If you have any suggestions for improvements or features, feel free to open an i
 - [**Ngrok**](https://ngrok.com) – Secure tunneling service to expose localhost to the internet
 - [**Docker**](https://www.docker.com) – Container-based deployment and orchestration platform
 
-  > Built with 💻, 🧠, and ☕ by Krishna Priya Nynaru
+
+> Built with 💻, 🧠, and ☕ by Krishna Priya Nynaru
