@@ -43,5 +43,7 @@ kill $(pgrep ngrok)
 ```
 ### Security Tips
 > Use authentication in OpenWebUI to protect remote access.
+
 > You can enable password protection in ngrok (paid feature).
+
 > Consider disabling registration (WEBUI_ALLOW_REGISTRATION=false).
