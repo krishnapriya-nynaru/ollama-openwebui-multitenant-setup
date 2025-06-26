@@ -41,7 +41,7 @@ bash scripts/start_all.sh <your_ngrok_authtoken>
 
 ## UI Preview
 Here's how the OpenWebUI interface looks with multi-user support:
-[UI](https://github.com/krishnapriya-nynaru/ollama-openwebui-multitenant-setup/blob/main/Ollama_openwebui/docs/images/openweb_ui.png?raw=true)
+![alt_text](https://github.com/krishnapriya-nynaru/ollama-openwebui-multitenant-setup/blob/main/Ollama_openwebui/docs/images/openweb_ui.png?raw=true)
 
 ## Contributing 
 Contributions are welcome! To contribute to this project:
