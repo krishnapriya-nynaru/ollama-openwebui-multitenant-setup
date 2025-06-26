@@ -4,7 +4,7 @@ A complete guide to self-hosting LLMs with [Ollama](https://ollama.com) and [Ope
 
 ---
 
-## 📦 Features
+##  Features
 - ✅ Ollama installation and model pulls
 - ✅ OpenWebUI setup via Docker
 - ✅ Multi-user login support
@@ -14,7 +14,7 @@ A complete guide to self-hosting LLMs with [Ollama](https://ollama.com) and [Ope
 
 ---
 
-## 📁 Documentation
+##  Documentation
 
 | Section | Description |
 |---------|-------------|
@@ -28,12 +28,34 @@ A complete guide to self-hosting LLMs with [Ollama](https://ollama.com) and [Ope
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
-### 📥 Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/yourname/ollama-openwebui-multitenant-setup.git
 cd ollama-openwebui-multitenant-setup
-bash scripts/start_all.sh
+chmod +x scripts/start_all.sh
+bash scripts/start_all.sh <your_ngrok_authtoken>
 ```
+
+## UI Preview
+Here's how the OpenWebUI interface looks with multi-user support:
+[UI](https://github.com/krishnapriya-nynaru/ollama-openwebui-multitenant-setup/blob/main/Ollama_openwebui/docs/images/openweb_ui.png?raw=true)
+
+## Contributing 
+Contributions are welcome! To contribute to this project:
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and ensure the code passes all tests.
+4. Submit a pull request with a detailed description of your changes.
+
+If you have any suggestions for improvements or features, feel free to open an issue!
+
+##  Acknowledgements
+- [**Ollama**](https://ollama.com) – Lightweight local LLM runtime
+- [**OpenWebUI**](https://github.com/open-webui/open-webui) – Elegant and extensible chat UI for LLMs
+- [**Ngrok**](https://ngrok.com) – Secure tunneling service to expose localhost to the internet
+- [**Docker**](https://www.docker.com) – Container-based deployment and orchestration platform
+
+  > Built with 💻, 🧠, and ☕ by Krishna Priya Nynaru
