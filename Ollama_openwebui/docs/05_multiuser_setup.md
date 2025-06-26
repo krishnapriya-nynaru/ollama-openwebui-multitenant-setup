@@ -19,7 +19,7 @@ Each user has:
 > 🛠️ You can change roles anytime from the **Admin Console**.
 
 ## How to Add More Users
-- Follow the steps in [04 - User Management]() to add users via the Admin Console.
+- Follow the steps in [04 - User Management](https://github.com/krishnapriya-nynaru/ollama-openwebui-multitenant-setup/blob/main/Ollama_openwebui/docs/04_user_management.md) to add users via the Admin Console.
 - Admin logs in to http://localhost:3000/admin
 - Click ➕ to add new users
 - Provide email, password, and assign role
@@ -28,7 +28,7 @@ Each user has:
 Each user can access the platform from:
 - Multiple devices
 - Any browser via http://<your-host>:3000
-- Optional: remote access via [06 - Ngrok]()
+- Optional: remote access via [06 - Ngrok](https://github.com/krishnapriya-nynaru/ollama-openwebui-multitenant-setup/blob/main/Ollama_openwebui/docs/06_ngrok_access.md)
 ## Multi-Model Handling
 - If multiple users use different models (like llama3.2, qwen3, etc.):
 - The UI will remember each user's last-used model
