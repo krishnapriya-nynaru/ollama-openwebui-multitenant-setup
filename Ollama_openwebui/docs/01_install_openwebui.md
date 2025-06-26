@@ -35,6 +35,9 @@ Visit
 ```bash
 http://localhost:3000
 ```
+## UI Interface
+![alt_text](https://github.com/krishnapriya-nynaru/ollama-openwebui-multitenant-setup/blob/main/Ollama_openwebui/docs/images/openweb_ui.png?raw=true)
+
 **Note** : GPU Support (Optional)
 If you want to run OpenWebUI with GPU acceleration for model inference (when GPU-enabled Ollama or other backends are in use), follow the official setup instructions:
 
